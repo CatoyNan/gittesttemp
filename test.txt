@@ -1,1 +1,4 @@
-1111111111111111
+public statc void main(){
+  int i = 0;
+  i++;
+}
